@@ -1,0 +1,38 @@
+{
+  "result": "Result is result",
+  "person": [
+    {
+      "name": "kyawkayw",
+      "age": "21",
+      "city": "Yangon",
+      "address": "a_address",
+      "friends": [
+        {
+          "fri": "mg mg",
+          "fri_address": "mgmg_address",
+          "age": "18"
+        },
+        {
+          "fri": "aung aung",
+          "fri_address": "aungaung_address",
+          "age": "20"
+        },
+        {
+          "fri": "su su",
+          "fri_address": "susu_address",
+          "age": "19"
+        },
+        {
+          "fri": "mya mya",
+          "fri_address": "myamya_address",
+          "age": "16"
+        },
+        {
+          "fri": "bo bo",
+          "fri_address": "bobo_address",
+          "age": "20"
+        }
+      ]
+    }
+  ]
+}
