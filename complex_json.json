@@ -2,41 +2,74 @@
   "result": "Result is result",
   "person": [
     {
-      "name": "kyaw kyaw",
+      "name": "Kyaw Kyaw",
       "age": "21",
       "city": "Yangon",
       "address": "kyawkyaw_address",
       "friends": [
         {
-          "fri": "mg mg",
+          "fri": "Mg Mg",
           "fri_address": "mgmg_address",
           "age": "18"
         },
         {
-          "fri": "aung aung",
+          "fri": "Aung Aung",
           "fri_address": "aungaung_address",
           "age": "20"
         },
         {
-          "fri": "su su",
+          "fri": "Su Su",
           "fri_address": "susu_address",
           "age": "19"
         },
         {
-          "fri": "mya mya",
-          "fri_address": "myamya_address",
+          "fri": "Aye Mya",
+          "fri_address": "ayemya_address",
           "age": "16"
         },
         {
-          "fri": "bo bo",
-          "fri_address": "bobo_address",
+          "fri": "Bo Tun",
+          "fri_address": "botun_address",
           "age": "20"
         },
         {
-          "fri": "jar aye",
+          "fri": "Jar Aye",
           "fri_address": "jaraye_address",
           "age": "17"
+        },
+        {
+          "fri": "Mya Win",
+          "fri_address": "myawin_address",
+          "age": "16"
+        },
+        {
+          "fri": "Htun Hla",
+          "fri_address": "htunhla_address",
+          "age": "22"
+        },
+{
+          "fri": "Aung Din",
+          "fri_address": "aungdin_address",
+          "age": "21"
         }
+
+,
+        {
+          "fri": "Ko Yin Mg",
+          "fri_address": "koyinmg_address",
+          "age": "19"
+        },
+        {
+          "fri": "Aung Bhu",
+          "fri_address": "aungbhu_address",
+          "age": "23"
+        },
+{
+          "fri": "Chatt Gyi",
+          "fri_address": "chattgyi_address",
+          "age": "18"
+        }
+
       ]
     }
   ]
